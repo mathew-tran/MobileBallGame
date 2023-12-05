@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Resources/Scenes/PreMenu.unity
+    guid: 5afdb1f9fb131874498ecd4acb96e7c3
+  - enabled: 1
+    path: Assets/Resources/Scenes/MainMenu.unity
+    guid: 43cc42291f9532b4dba212ec9d89d978
+  - enabled: 1
+    path: Assets/Resources/Scenes/Game.unity
+    guid: 93460152da721df43b35d759cdffcc6f
+  - enabled: 1
+    path: Assets/Resources/Scenes/Credits.unity
+    guid: 8221bf77087b1294f92e13cda73d7661
+  - enabled: 1
+    path: Assets/Resources/Scenes/Options.unity
+    guid: d1eced7de05d5fb418952ff2cf3c1634
+  - enabled: 1
+    path: Assets/Resources/Scenes/Level Select.unity
+    guid: e88ada46b0477aa47ba17996d6abc866
+  - enabled: 1
+    path: Assets/Resources/Scenes/Survival.unity
+    guid: 1f579e2d23a3e754e92d52f73e360007
+  m_configObjects: {}
